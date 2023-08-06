@@ -1,4 +1,4 @@
-# Freshfolio - Team-Based Freelancing Platform
+# Dropservicing - Team-Based Freelancing Platform
 
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Freshfolio is an innovative freelancing platform that fosters collaboration and learning for freelancers of all levels. It provides a team-based approach, allowing new and aspiring freelancers to work with experienced professionals on various projects, gaining valuable experience and building their skills in a supportive environment.
+Dropservicing is an innovative freelancing platform that fosters collaboration and learning for freelancers of all levels. It provides a team-based approach, allowing new and aspiring freelancers to work with experienced professionals on various projects, gaining valuable experience and building their skills in a supportive environment.
 
 ## Features
 
@@ -29,7 +29,7 @@ Freshfolio is an innovative freelancing platform that fosters collaboration and 
 
 ## Getting Started
 
-To run Freshfolio locally on your machine, follow these steps:
+To run Dropservicing locally on your machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Navigate to the project directory: `cd your-repo`
